@@ -69,10 +69,3 @@ Evaluated on an unseen test set of 30 chest X-rays (15 NORMAL, 15 PNEUMONIA):
 * **Dashboard Deployment:** Streamlit
 
 ---
-
-## ⚡ Quickstart & Deployment
-
-### **1. Clone Repository**
-```bash
-git clone [https://github.com/your-username/pneumonia-explainable-cad.git](https://github.com/your-username/pneumonia-explainable-cad.git)
-cd pneumonia-explainable-cad
